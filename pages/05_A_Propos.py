@@ -11,7 +11,7 @@ st.set_page_config(page_title="À propos", page_icon="👤", layout="centered")
 # ======================
 # TITRE
 # ======================
-st.title("👋 À propos")
+st.title("À propos")
 
 st.write("""
 Bienvenue sur mon application de data analyse 👨‍💻  
@@ -25,7 +25,7 @@ Je suis passionné par la data, l’intelligence artificielle et la transformati
 # ======================
 st.subheader("📬 Contact")
 
-st.write("Tu peux me contacter via les moyens suivants :")
+st.write("Vous pouvez me contacter via les moyens suivants :")
 
 st.markdown("""
 - 📧 Email : malicka-yacine-francesca.zouho@efrei.net
