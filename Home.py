@@ -129,27 +129,28 @@ exp1, exp2 = st.columns(2)
 
 with exp1:
     st.markdown("""<div class="subtitle1"><b>Stage Data Quality Analyst<b>""",unsafe_allow_html=True)
-    st.write("🏢 Entreprise : Société Générale Security Services (SGSS)")
-    st.write("📅 Période : Juillet/2025 - Janvier/2026")
+    st.write("🏢 **Entreprise** : Société Générale Security Services (SGSS)")
+    st.write("📅 **Période** : Juillet/2025 - Janvier/2026")
+    st.write("📍 **Lieu** : Paris et Nantes")
+    st.write("**Environnement de données** : Données financières et de référence issues de différents systèmes internes, concernant principalement les sociétés de gestion, les fonds et les relations entre les différents tiers")
     st.write("""
-    - Intégration de Microsoft **Power BI** aux activités de l’équipe afin d’améliorer le reporting et la visualisation des données
-    - Création de tableaux de bord en début de chaque mois pour  le suivi des **KPI** et la prise de décision
     - Migration de **Excel** ( Power Query) vers **ALTERYX**
     - Automatisation des tâches de nettoyage, d’analyse des données et de reporting, avec ALTERYX réduisant le temps de traitement d’environ **85%**
     - Rédaction, mise à jour et centralisation des procédures et modes opératoires sur **Sharepoint** afin d’assurer la pérennisation des processus
+    - Intégration de Microsoft **Power BI** aux activités de l’équipe afin d’améliorer le reporting et la visualisation des données
+    - Création de tableaux de bord en début de chaque mois pour  le suivi des **KPI** et la prise de décision
     """)
 
 with exp2:
     st.markdown("""<div class="subtitle1"><b>Chargée Evenementiel<b>""",unsafe_allow_html=True)
-    st.write("🏢Association : Junior entreprise SEPEFREI")
-    st.write("📅 Période : Mars/2025 - Mars/2026")
+    st.write("🏢 **Association** : Junior entreprise SEPEFREI")
+    st.write("📅 **Période** : Mars/2025 - Mars/2026")
+    st.write("📍 **Lieu** : Paris")
     st.write("""
-    - Organisation et gestion opérationnelle d’événements visant à renforcer la **cohésion de l'équipe**
     - **Coordination** des étapes clés (logistique, prestataires et participants)
     - Gestion des échanges avec les parties prenantes internes et externes
     - **Analyse des performances** basée sur les retours d’expérience et les données de participation afin d’optimiser les événements futurs
-    - **Structuration des processus et rédaction de rapports**  pour garantir la pérennité et l’amélioration continue des événements
-
+    - **Structuration des processus et rédaction de rapports** 
     """)
 
 st.markdown("---")
