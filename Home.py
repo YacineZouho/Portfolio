@@ -116,7 +116,7 @@ with col3:
     st.write("""
     - Science de l'ingénieur
     - Mathématiques appliquées
-    - Informatique / Data / Analyse
+    - Informatique
     """)
 st.markdown("---")
 
