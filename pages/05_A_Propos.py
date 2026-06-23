@@ -40,7 +40,7 @@ st.subheader("💡 Vos avis m'intéresse")
 
 st.write("""
 Je cherche constamment à améliorer mes projets, votre retour est donc très précieux.
-N"hésite pas à me dire ce que vous pensez de mes projets ou ce qui pourrait être amélioré.
+N'hésite pas à me dire ce que vous pensez de mes projets ou ce qui pourrait être amélioré.
 """)
 
 

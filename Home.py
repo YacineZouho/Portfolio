@@ -41,12 +41,10 @@ st.markdown("""
     border-radius: 12px;
     background-color: white;
     border: 2px solid #800020;
-    color: black;
-    font-size: 12px;
+    font-size: 14px;
 }
 .subtitle1 {
-    font-size: 16px;
-    color: black;
+    font-size: 17px;
 </style>
 """, unsafe_allow_html=True)
 
@@ -92,13 +90,13 @@ st.markdown("#### 🎓 Formations")
 col1, col2 , col3= st.columns(3)
 
 with col1:
-    st.markdown("""<div class="subtitle1"><b>Classes préparatoires MPSI/MP<b>""",unsafe_allow_html=True)
-    st.write("📍 INP-HB | Côte d'Ivoire")
-    st.write("📅 2021 - 2023")
+    st.markdown("""<div class="subtitle1"><b>Diplôme d'Ingenieur<b>""",unsafe_allow_html=True)
+    st.write("📍 EFREI PARIS | France")
+    st.write("📅 2023 - Aujourd'hui")
     st.write("""
-    - Formation en ingénierie
-    - Mathématiques appliquées
-    - Informatique / Data / Analyse
+    - Analyse et exploitation de données pour l’aide à la décision (BI)
+    - Conception de tableaux de bord et reporting (visualisation de données)
+    - Modélisation et structuration de données pour l’analyse décisionnelle
     """)
 
 with col2:
@@ -112,13 +110,13 @@ with col2:
     """)
 
 with col3:
-    st.markdown("""<div class="subtitle1"><b>Diplôme d'Ingenieur<b>""",unsafe_allow_html=True)
-    st.write("📍 EFREI PARIS | France")
-    st.write("📅 2023 - Aujourd'hui")
+    st.markdown("""<div class="subtitle1"><b>Classes préparatoires MPSI/MP<b>""",unsafe_allow_html=True)
+    st.write("📍 INP-HB | Côte d'Ivoire")
+    st.write("📅 2021 - 2023")
     st.write("""
-    - Analyse et exploitation de données pour l’aide à la décision (BI)
-    - Conception de tableaux de bord et reporting (visualisation de données)
-    - Modélisation et structuration de données pour l’analyse décisionnelle
+    - Science de l'ingénieur
+    - Mathématiques appliquées
+    - Informatique / Data / Analyse
     """)
 st.markdown("---")
 
@@ -134,19 +132,24 @@ with exp1:
     st.write("🏢 Entreprise : Société Générale Security Services (SGSS)")
     st.write("📅 Période : Juillet/2025 - Janvier/2026")
     st.write("""
-    - Contrôle et amélioration de la qualité des données clients dans un environnement international (multi-pays, multi-sources)
-    - Automatisation de la détection d’anomalies et du reporting via Alteryx et Excel, réduction du traitement manuel
-    - Création de tableaux de bord Power BI et documentation des processus pour assurer la fiabilité et la traçabilité des données
+    - Intégration de Microsoft <b>Power BI <b> aux activités de l’équipe afin d’améliorer le reporting et la visualisation des données
+    - Création de tableaux de bord en début de chaque mois pour  le suivi des <b> KPI <b> et la prise de décision
+    - Migration de <b> Excel <b> ( Power Query) vers <b> ALTERYX <b>
+    - Automatisation des tâches de nettoyage, d’analyse des données et de reporting, avec <b> ALTERYX <b> réduisant le temps de traitement d’environ <b> 85% <b>
+    - Rédaction, mise à jour et centralisation des procédures et modes opératoires sur <b> Sharepoint <b> afin d’assurer la pérennisation des processus
     """)
 
 with exp2:
     st.markdown("""<div class="subtitle1"><b>Chargée Evenementiel<b>""",unsafe_allow_html=True)
-    st.write("🏢Entreprise : Junior entreprise SEPEFREI")
+    st.write("🏢Association : Junior entreprise SEPEFREI")
     st.write("📅 Période : Mars/2025 - Mars/2026")
     st.write("""
-    - Organisation et coordination d’événements étudiants (logistique, planning, gestion des intervenants)
-    - Gestion de projet en équipe : répartition des tâches, suivi des deadlines et respect des objectifs
-    - Communication et promotion de l’événement auprès des étudiants et partenaires
+    - Organisation et gestion opérationnelle d’événements visant à renforcer la <b>cohésion de l'équipe<b>
+    - <b> Coordination <b> des étapes clés (logistique, prestataires et participants)<b>
+    - Gestion des échanges avec les parties prenantes internes et externes
+    - <b> Analyse des performances <b> basée sur les retours d’expérience et les données de participation afin d’optimiser les événements futurs
+    - <b> Structuration des processus et rédaction de rapports <b>  pour garantir la pérennité et l’amélioration continue des événements
+
     """)
 
 st.markdown("---")

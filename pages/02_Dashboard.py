@@ -89,7 +89,7 @@ st.divider()
 
 
 
-html = """<iframe title="Application_Business" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjc3NGQwOTItYTFjYy00ZTkwLWIzNzgtY2RhMWUzNzgyYWEzIiwidCI6IjQxMzYwMGNmLWJkNGUtNGM3Yy04YTYxLTY5ZTczY2RkZjczMSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>"""
+html = """<iframe title="Application_Business" width="400" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjc3NGQwOTItYTFjYy00ZTkwLWIzNzgtY2RhMWUzNzgyYWEzIiwidCI6IjQxMzYwMGNmLWJkNGUtNGM3Yy04YTYxLTY5ZTczY2RkZjczMSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>"""
 
 components.html(html, width=1900, height=800)
 
