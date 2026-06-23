@@ -106,9 +106,9 @@ with col2:
     st.write("📍 Staffordshire University | Angleterre")
     st.write("📅 2024")
     st.write("""
-    - Data Science
-    - Machine Learning
-    - Business Intelligence
+    - Mathématiques avancées (algèbre, analyse, équations différentielles)
+    - Physique et modélisation scientifique
+    - Résolution de problèmes et raisonnement algorithmique
     """)
 
 with col3:
@@ -116,9 +116,9 @@ with col3:
     st.write("📍 EFREI PARIS | France")
     st.write("📅 2023 - Aujourd'hui")
     st.write("""
-    - Data Science
-    - Machine Learning
-    - Business Intelligence
+    - Analyse et exploitation de données pour l’aide à la décision (BI)
+    - Conception de tableaux de bord et reporting (visualisation de données)
+    - Modélisation et structuration de données pour l’analyse décisionnelle
     """)
 st.markdown("---")
 
@@ -134,9 +134,9 @@ with exp1:
     st.write("🏢 Entreprise : Société Générale Security Services (SGSS)")
     st.write("📅 Période : Juillet/2025 - Janvier/2026")
     st.write("""
-    - Analyse de données
-    - Création de dashboards
-    - Automatisation de rapports
+    - Contrôle et amélioration de la qualité des données clients dans un environnement international (multi-pays, multi-sources)
+    - Automatisation de la détection d’anomalies et du reporting via Alteryx et Excel, réduction du traitement manuel
+    - Création de tableaux de bord Power BI et documentation des processus pour assurer la fiabilité et la traçabilité des données
     """)
 
 with exp2:
@@ -144,9 +144,9 @@ with exp2:
     st.write("🏢Entreprise : Junior entreprise SEPEFREI")
     st.write("📅 Période : Mars/2025 - Mars/2026")
     st.write("""
-    - Développement d'outils data
-    - Machine Learning
-    - Optimisation de processus
+    - Organisation et coordination d’événements étudiants (logistique, planning, gestion des intervenants)
+    - Gestion de projet en équipe : répartition des tâches, suivi des deadlines et respect des objectifs
+    - Communication et promotion de l’événement auprès des étudiants et partenaires
     """)
 
 st.markdown("---")
@@ -162,7 +162,7 @@ with col1:
     st.markdown("""
     <div class="card">
     📊 <b>Analyse de données</b><br>
-    EDA + visualisations 
+    EDA + visualisations de données
     </div>
     <br>
     """, unsafe_allow_html=True)
