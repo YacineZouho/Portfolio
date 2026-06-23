@@ -132,11 +132,11 @@ with exp1:
     st.write("🏢 Entreprise : Société Générale Security Services (SGSS)")
     st.write("📅 Période : Juillet/2025 - Janvier/2026")
     st.write("""
-    - Intégration de Microsoft <b>Power BI <b> aux activités de l’équipe afin d’améliorer le reporting et la visualisation des données
-    - Création de tableaux de bord en début de chaque mois pour  le suivi des <b> KPI <b> et la prise de décision
-    - Migration de <b> Excel <b> ( Power Query) vers <b> ALTERYX <b>
-    - Automatisation des tâches de nettoyage, d’analyse des données et de reporting, avec <b> ALTERYX <b> réduisant le temps de traitement d’environ <b> 85% <b>
-    - Rédaction, mise à jour et centralisation des procédures et modes opératoires sur <b> Sharepoint <b> afin d’assurer la pérennisation des processus
+    - Intégration de Microsoft **Power BI** aux activités de l’équipe afin d’améliorer le reporting et la visualisation des données
+    - Création de tableaux de bord en début de chaque mois pour  le suivi des **KPI** et la prise de décision
+    - Migration de **Excel** ( Power Query) vers **ALTERYX**
+    - Automatisation des tâches de nettoyage, d’analyse des données et de reporting, avec ALTERYX réduisant le temps de traitement d’environ **85%**
+    - Rédaction, mise à jour et centralisation des procédures et modes opératoires sur **Sharepoint** afin d’assurer la pérennisation des processus
     """)
 
 with exp2:
@@ -144,11 +144,11 @@ with exp2:
     st.write("🏢Association : Junior entreprise SEPEFREI")
     st.write("📅 Période : Mars/2025 - Mars/2026")
     st.write("""
-    - Organisation et gestion opérationnelle d’événements visant à renforcer la <b>cohésion de l'équipe<b>
-    - <b> Coordination <b> des étapes clés (logistique, prestataires et participants)<b>
+    - Organisation et gestion opérationnelle d’événements visant à renforcer la **cohésion de l'équipe**
+    - **Coordination** des étapes clés (logistique, prestataires et participants)
     - Gestion des échanges avec les parties prenantes internes et externes
-    - <b> Analyse des performances <b> basée sur les retours d’expérience et les données de participation afin d’optimiser les événements futurs
-    - <b> Structuration des processus et rédaction de rapports <b>  pour garantir la pérennité et l’amélioration continue des événements
+    - **Analyse des performances** basée sur les retours d’expérience et les données de participation afin d’optimiser les événements futurs
+    - **Structuration des processus et rédaction de rapports**  pour garantir la pérennité et l’amélioration continue des événements
 
     """)
 
